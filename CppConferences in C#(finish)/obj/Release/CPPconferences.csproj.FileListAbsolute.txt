@@ -1,0 +1,7 @@
+C:\Users\robyb\OneDrive\Desktop\CPPconferences\bin\Release\CPPconferences.exe.config
+C:\Users\robyb\OneDrive\Desktop\CPPconferences\bin\Release\CPPconferences.exe
+C:\Users\robyb\OneDrive\Desktop\CPPconferences\bin\Release\CPPconferences.pdb
+C:\Users\robyb\OneDrive\Desktop\CPPconferences\obj\Release\CPPconferences.csprojAssemblyReference.cache
+C:\Users\robyb\OneDrive\Desktop\CPPconferences\obj\Release\CPPconferences.csproj.CoreCompileInputs.cache
+C:\Users\robyb\OneDrive\Desktop\CPPconferences\obj\Release\CPPconferences.exe
+C:\Users\robyb\OneDrive\Desktop\CPPconferences\obj\Release\CPPconferences.pdb

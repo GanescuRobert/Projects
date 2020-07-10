@@ -1,0 +1,163 @@
+# depslib dependency file v1.0
+1517443813 source:c:\users\roby99\desktop\1\matrice.cpp
+	<cstdlib>
+	<ctime>
+
+1517473312 source:c:\users\roby99\desktop\1\main.cpp
+	<graphics.h>
+	<iostream>
+	<fstream>
+	<windows.h>
+	<ctime>
+
+1517353600 source:c:\users\roby99\desktop\1\citirepoze.cpp
+	<iostream>
+	<fstream>
+
+1517428475 source:c:\users\roby99\desktop\1\checkmap.cpp
+	<iostream>
+
+1519554767 source:c:\users\gigabyte\desktop\pc\1\citirepoze.cpp
+	<iostream>
+	<fstream>
+
+1519596538 source:c:\users\gigabyte\desktop\pc\1\main.cpp
+	<graphics.h>
+	<iostream>
+	<windows.h>
+	<ctime>
+
+1519554771 source:c:\users\gigabyte\desktop\pc\1\matrice.cpp
+	<cstdlib>
+	<ctime>
+	<cstring>
+	<iostream>
+
+1519588800 source:c:\users\gigabyte\desktop\pc\1\check 0.cpp
+	<iostream>
+	<graphics.h>
+
+1519596846 source:c:\users\gigabyte\desktop\pc\1\lose.cpp
+	<iostream>
+	<graphics.h>
+
+1519558367 source:f:\1 copie\citirepoze.cpp
+	<iostream>
+	<fstream>
+
+1519600446 source:f:\1 copie\lose.cpp
+	<iostream>
+	<graphics.h>
+
+1521103234 source:f:\1 copie\check 0.cpp
+	<iostream>
+	<graphics.h>
+
+1521103363 source:f:\1 copie\main.cpp
+	<graphics.h>
+	<iostream>
+	<windows.h>
+	<ctime>
+
+1521103258 source:f:\1 copie\matrice.cpp
+	<cstdlib>
+	<ctime>
+	<cstring>
+	<iostream>
+
+1521103234 source:h:\1 copie\check 0.cpp
+	<iostream>
+	<graphics.h>
+
+1519558367 source:h:\1 copie\citirepoze.cpp
+	<iostream>
+	<fstream>
+
+1519600446 source:h:\1 copie\lose.cpp
+	<iostream>
+	<graphics.h>
+
+1521103363 source:h:\1 copie\main.cpp
+	<graphics.h>
+	<iostream>
+	<windows.h>
+	<ctime>
+
+1521103258 source:h:\1 copie\matrice.cpp
+	<cstdlib>
+	<ctime>
+	<cstring>
+	<iostream>
+
+1521103234 source:c:\users\robyblue\desktop\1 original\check 0.cpp
+	<iostream>
+	<graphics.h>
+
+1519558367 source:c:\users\robyblue\desktop\1 original\citirepoze.cpp
+	<iostream>
+	<fstream>
+
+1519600446 source:c:\users\robyblue\desktop\1 original\lose.cpp
+	<iostream>
+	<graphics.h>
+
+1521103363 source:c:\users\robyblue\desktop\1 original\main.cpp
+	<graphics.h>
+	<iostream>
+	<windows.h>
+	<ctime>
+
+1521103258 source:c:\users\robyblue\desktop\1 original\matrice.cpp
+	<cstdlib>
+	<ctime>
+	<cstring>
+	<iostream>
+
+1523435592 source:c:\users\calculator\desktop\1 original-20180412t064154z-001\1 original\check 0.cpp
+	<iostream>
+	<graphics.h>
+
+1523515485 source:c:\users\calculator\desktop\1 original-20180412t064154z-001\1 original\citirepoze.cpp
+	<iostream>
+	<fstream>
+
+1523435594 source:c:\users\calculator\desktop\1 original-20180412t064154z-001\1 original\lose.cpp
+	<iostream>
+	<graphics.h>
+
+1523435594 source:c:\users\calculator\desktop\1 original-20180412t064154z-001\1 original\main.cpp
+	<graphics.h>
+	<iostream>
+	<windows.h>
+	<ctime>
+
+1523435596 source:c:\users\calculator\desktop\1 original-20180412t064154z-001\1 original\matrice.cpp
+	<cstdlib>
+	<ctime>
+	<cstring>
+	<iostream>
+
+1523439192 source:h:\1 original-20180412t064154z-001\1 original\check 0.cpp
+	<iostream>
+	<graphics.h>
+
+1523519085 source:h:\1 original-20180412t064154z-001\1 original\citirepoze.cpp
+	<iostream>
+	<fstream>
+
+1523439194 source:h:\1 original-20180412t064154z-001\1 original\lose.cpp
+	<iostream>
+	<graphics.h>
+
+1523439194 source:h:\1 original-20180412t064154z-001\1 original\main.cpp
+	<graphics.h>
+	<iostream>
+	<windows.h>
+	<ctime>
+
+1523439196 source:h:\1 original-20180412t064154z-001\1 original\matrice.cpp
+	<cstdlib>
+	<ctime>
+	<cstring>
+	<iostream>
+

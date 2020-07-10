@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="Poze\;" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="0.jpg">
+			<Option virtualFolder="Poze/" />
+		</Unit>
+		<Unit filename="1.jpg">
+			<Option virtualFolder="Poze/" />
+		</Unit>
+		<Unit filename="2.jpg">
+			<Option virtualFolder="Poze/" />
+		</Unit>
+		<Unit filename="3.jpg">
+			<Option virtualFolder="Poze/" />
+		</Unit>
+		<Unit filename="4.jpg">
+			<Option virtualFolder="Poze/" />
+		</Unit>
+		<Unit filename="5.jpg">
+			<Option virtualFolder="Poze/" />
+		</Unit>
+		<Unit filename="6.jpg">
+			<Option virtualFolder="Poze/" />
+		</Unit>
+		<Unit filename="7.jpg">
+			<Option virtualFolder="Poze/" />
+		</Unit>
+		<Unit filename="8.jpg">
+			<Option virtualFolder="Poze/" />
+		</Unit>
+		<Unit filename="CitirePoze.cpp" />
+		<Unit filename="Main.cpp" />
+		<Unit filename="Matrice.cpp" />
+		<Unit filename="bmbLinii.txt">
+			<Option virtualFolder="Poze/" />
+		</Unit>
+		<Unit filename="button.jpg">
+			<Option virtualFolder="Poze/" />
+		</Unit>
+		<Unit filename="charNume.txt">
+			<Option virtualFolder="Poze/" />
+		</Unit>
+		<Unit filename="check 0.cpp" />
+		<Unit filename="lose.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
